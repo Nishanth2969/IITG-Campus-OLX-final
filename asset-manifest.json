@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IITG-Campus-OLX/static/css/main.989010e5.css",
+    "main.js": "/IITG-Campus-OLX/static/js/main.50f11dd6.js",
+    "static/js/787.4016d003.chunk.js": "/IITG-Campus-OLX/static/js/787.4016d003.chunk.js",
+    "index.html": "/IITG-Campus-OLX/index.html",
+    "main.989010e5.css.map": "/IITG-Campus-OLX/static/css/main.989010e5.css.map",
+    "main.50f11dd6.js.map": "/IITG-Campus-OLX/static/js/main.50f11dd6.js.map",
+    "787.4016d003.chunk.js.map": "/IITG-Campus-OLX/static/js/787.4016d003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989010e5.css",
+    "static/js/main.50f11dd6.js"
+  ]
+}
